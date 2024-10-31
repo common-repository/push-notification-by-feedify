@@ -1,0 +1,1 @@
+importScripts('https://cdn.feedify.net/js/push/sw-wp-1-0.js?v=3.0.0');
